@@ -44,7 +44,6 @@ No necesitas instalar Python ni dependencias externas para probar la fase final 
 ├── db/                     # Base de datos SQLite (Perfiles e Historial de JSONs)
 ├── dist/                   # Ejecutables compilados nativos (.exe)
 ├── main.py                 # Punto de Integración General y State Machine
-├── INFORME_TECNICO_GRUPO3.md # Informe súper detallado de la integración
 └── README.md               # Esta documentación
 ```
 
