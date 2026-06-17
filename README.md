@@ -58,7 +58,6 @@ No necesitas instalar Python ni dependencias externas para probar la fase final 
 
 ## 🛠️ Actualizaciones de Fase 2 (Integración High-Fidelity)
 
-El software superó las expectativas iniciales para transformarse en un sistema comercialmente viable:
 * **Audio Procedural (NumPy):** No requiere archivos `.mp3` o `.wav` de terceros. El motor genera matemáticamente las ondas sonoras de disparos, aciertos ("ding") y fallos ("thud") en tiempo real usando el microprocesador.
 * **Máquina de Estados:** Cuenta con robustos menús de ingreso de Perfil Táctico y rutinas interactivas de calibración por escáner.
 * **Persistencia Offline:** Integración nativa de base de datos relacional (SQLite) para guardar hasta el último byte validado por las reglas del Grupo 2, ordenado por operador.
